@@ -4,4 +4,4 @@ This software project and its corresponding documentation entitled: “Utilizati
 for the degree, Bachelor of Science in Computer Science. It is the product of our own work.
 
 We hereby grant the College of Information and Communications Technology permission to freely use, publish in local or international journal/conference, reproduce, or distribute publicly the paper and electronic copies of this software project and its corresponding documentation in whole or
-in part, provided that we are acknowledge.
+in part, provided that we are acknowledged.
