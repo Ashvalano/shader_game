@@ -12,7 +12,7 @@ The researchers’ motivations stem from being game enthusiast themselves, and a
 
 ## Installation
 
-The game can be downloaded in this [link](https://drive.google.com/file/d/1ba1bvTJpoMXbet4WPJFEEPADMRxhvgYV/view?usp=share_link). To install, use file archiver tools such as winrar, and unzip the file. To run the game, locate ThesisProject.exe.
+Download the game files as ZIP in this repository. To install, use file archiver tools such as winrar, and unzip the file. To run the game, locate ThesisProject.exe.
 
 
 ## Contributors
